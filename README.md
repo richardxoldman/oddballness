@@ -19,7 +19,7 @@ https://codalab.lisn.upsaclay.fr/competitions/9784
 The code in generate_outputs.py is complex because there is a need for proper alignment of tokens produced by the model tokenizer with tokens in the dataset.
 
 
-To switch between the versions of the experiments (with/without additional prompt), it is necessary to change 3 functions in lines 22, 24, 26 of the generate_outputs.py file:
+To switch between the versions of the experiments (with/without additional prompt), it is necessary to change 3 functions in lines 22, 24, 26 in the generate_outputs.py file:
 
 * get_{oddballness/probability}_for_decoder, get_topk_values functions **without** additional prompt
 
