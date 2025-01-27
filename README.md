@@ -1,7 +1,7 @@
 # Oddballness: universal anomaly detection with language models
 This repository contains scripts for the paper 
 
-Oddballness: universal anomaly detection with language models (https://arxiv.org/abs/2409.03046)
+Oddballness: universal anomaly detection with language models (https://aclanthology.org/2025.coling-main.183/)
 
 # How to run experiments
 To run MultiGED-2023 experiments it is needed to:
